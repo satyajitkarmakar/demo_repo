@@ -1,0 +1,3 @@
+ .\setup.exe /configure .\configuration-Office2021Enterprise.xml
+
+.\setup.exe /configure .\configuration-Office2021Enterp
